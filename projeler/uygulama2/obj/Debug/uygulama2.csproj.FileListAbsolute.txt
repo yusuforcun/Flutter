@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\projeler\uygulama2\bin\Debug\uygulama2.exe.config
+C:\Users\Administrator\Desktop\projeler\uygulama2\bin\Debug\uygulama2.exe
+C:\Users\Administrator\Desktop\projeler\uygulama2\bin\Debug\uygulama2.pdb
+C:\Users\Administrator\Desktop\projeler\uygulama2\obj\Debug\uygulama2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\projeler\uygulama2\obj\Debug\uygulama2.Form1.resources
+C:\Users\Administrator\Desktop\projeler\uygulama2\obj\Debug\uygulama2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\projeler\uygulama2\obj\Debug\uygulama2.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\projeler\uygulama2\obj\Debug\uygulama2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\projeler\uygulama2\obj\Debug\uygulama2.exe
+C:\Users\Administrator\Desktop\projeler\uygulama2\obj\Debug\uygulama2.pdb

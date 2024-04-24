@@ -1,0 +1,24 @@
+#forma{
+    background-image: url("forma.webp");
+    width: 400px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+#renk1{
+    position: absolute;
+    left: 100px;
+    top: 120px;
+    width: 65px;
+    height: 250px;
+}
+
+#renk2{
+    position: absolute;
+    left: 165px;
+    top: 120px;
+    width: 70px;
+    height: 250px;
+}

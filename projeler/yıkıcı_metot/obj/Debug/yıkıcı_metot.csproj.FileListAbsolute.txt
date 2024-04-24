@@ -1,0 +1,7 @@
+D:\projeler\yıkıcı_metot\bin\Debug\yıkıcı_metot.exe.config
+D:\projeler\yıkıcı_metot\bin\Debug\yıkıcı_metot.exe
+D:\projeler\yıkıcı_metot\bin\Debug\yıkıcı_metot.pdb
+D:\projeler\yıkıcı_metot\obj\Debug\yıkıcı_metot.csproj.AssemblyReference.cache
+D:\projeler\yıkıcı_metot\obj\Debug\yıkıcı_metot.csproj.CoreCompileInputs.cache
+D:\projeler\yıkıcı_metot\obj\Debug\yıkıcı_metot.exe
+D:\projeler\yıkıcı_metot\obj\Debug\yıkıcı_metot.pdb

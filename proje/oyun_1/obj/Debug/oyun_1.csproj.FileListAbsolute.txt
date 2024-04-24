@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\proje\oyun_1\bin\Debug\oyun_1.exe.config
+C:\Users\Administrator\Desktop\proje\oyun_1\bin\Debug\oyun_1.exe
+C:\Users\Administrator\Desktop\proje\oyun_1\bin\Debug\oyun_1.pdb
+C:\Users\Administrator\Desktop\proje\oyun_1\obj\Debug\oyun_1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\proje\oyun_1\obj\Debug\oyun_1.Form1.resources
+C:\Users\Administrator\Desktop\proje\oyun_1\obj\Debug\oyun_1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\proje\oyun_1\obj\Debug\oyun_1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\proje\oyun_1\obj\Debug\oyun_1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\proje\oyun_1\obj\Debug\oyun_1.exe
+C:\Users\Administrator\Desktop\proje\oyun_1\obj\Debug\oyun_1.pdb

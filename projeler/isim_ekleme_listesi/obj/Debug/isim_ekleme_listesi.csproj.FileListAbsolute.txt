@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\projeler\isim_ekleme_listesi\bin\Debug\isim_ekleme_listesi.exe.config
+C:\Users\Administrator\Desktop\projeler\isim_ekleme_listesi\bin\Debug\isim_ekleme_listesi.exe
+C:\Users\Administrator\Desktop\projeler\isim_ekleme_listesi\bin\Debug\isim_ekleme_listesi.pdb
+C:\Users\Administrator\Desktop\projeler\isim_ekleme_listesi\obj\Debug\isim_ekleme_listesi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\projeler\isim_ekleme_listesi\obj\Debug\isim_ekleme_listesi.Form1.resources
+C:\Users\Administrator\Desktop\projeler\isim_ekleme_listesi\obj\Debug\isim_ekleme_listesi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\projeler\isim_ekleme_listesi\obj\Debug\isim_ekleme_listesi.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\projeler\isim_ekleme_listesi\obj\Debug\isim_ekleme_listesi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\projeler\isim_ekleme_listesi\obj\Debug\isim_ekleme_listesi.exe
+C:\Users\Administrator\Desktop\projeler\isim_ekleme_listesi\obj\Debug\isim_ekleme_listesi.pdb
